@@ -1,18 +1,19 @@
-Hey! ;)
+# 👋 Hey, I'm Vlad – aka proflead
 
-I'm Vladislav Guzey, a seasoned Web Developer with over 17 years of experience. I specialize in Python, PHP, JavaScript, React, HubSpot, and Firebase. 
+🚀 Helping developers stay ahead with **WebDev**, **AI tools**, and **smart workflows**.
 
-## Professional Background
+I'm a developer and content creator passionate about building with modern tech and sharing everything I learn along the way.
 
-Throughout my career, I've had the privilege of working on diverse projects that have honed my skills and broadened my expertise. My journey in web development has been both challenging and rewarding, allowing me to contribute effectively to various teams and projects.
+### 🛠 What I Do
+- 🌐 Web Development with Python, PHP, JavaScript, React, and modern frameworks
+- 🤖 Practical AI for developers – tutorials, tools, and reviews
+- 🧠 Productivity & workflow tips for devs and tech learners
 
-## Content Creation
+### 🔗 Content & Projects
+- 📹 [YouTube – Proflead](https://youtube.com/@proflead) – Weekly tutorials & reviews
+- ✍️ [Blog – proflead.dev](https://proflead.dev) – Articles & use cases
+- 🧰 Explore my projects below ↓
 
-I enjoy sharing knowledge and insights through various platforms:
-
-- **Website**: On [proflead.dev](proflead.dev), I write about web development, data, AI, and more.
-- **YouTube Channel**: I create tutorials and discussions on web development and AI topics. [YouTube Channel](https://www.youtube.com/@proflead/videos?sub_confirmation=1)
-- **Developer Communities**: I share articles and tutorials on various topics related to web development and AI on different developer websites.
 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/proflead/) to stay updated on my latest projects and articles.
