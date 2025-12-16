@@ -14,6 +14,7 @@ I'm a developer and content creator passionate about building with modern tech a
 - ✍️ [Blog – proflead.dev](https://proflead.dev) – Articles & use cases
 - 🧰 Explore my projects below ↓
 - [Medium](https://medium.com/@proflead)  – Developer articles, breakdowns & ideas
+- Reddit community - [https://www.reddit.com/r/AIforDevs/](https://www.reddit.com/r/AIforDevs/)
 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/proflead/) to stay updated on my latest projects and articles.
