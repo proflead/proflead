@@ -1,15 +1,15 @@
-# 👋 Hey, I'm Vlad – aka proflead
+# Hey, I'm Vlad – aka proflead
 
 PhD Researcher · AI Research Engineer · Helping Devs Work Smarter with AI & Productivity Tools
 
 I'm a developer and content creator passionate about building with modern tech and sharing everything I learn along the way.
 
-### 🛠 What I Do
+### What I Do
 - 🌐 Development with Python, PHP, JavaScript, React, and modern frameworks
 - 🤖 Practical AI for developers – tutorials, tools, and reviews
 - 🧠 Productivity & workflow tips for devs and tech learners
 
-### 🔗 Content & Projects
+### Content & Projects
 - 📹 [YouTube – Proflead](https://youtube.com/@proflead) – Weekly tutorials & reviews
 - ✍️ [Blog – proflead.dev](https://proflead.dev) – Articles & use cases
 - 🧰 Explore my projects below ↓
