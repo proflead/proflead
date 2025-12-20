@@ -18,4 +18,6 @@ I'm a developer and content creator passionate about building with modern tech a
 
 
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/proflead/) to stay updated on my latest projects and articles.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/proflead/) to stay updated on my latest projects and articles. 
+
+If you want to support me, please do it [here](https://github.com/sponsors/proflead/) ;) Thanks!
