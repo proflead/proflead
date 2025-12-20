@@ -10,11 +10,12 @@ I'm a developer and content creator passionate about building with modern tech a
 - Productivity & workflow tips for devs and tech learners
 
 ### Content & Projects
-- [YouTube – Proflead](https://youtube.com/@proflead) – Weekly tutorials & reviews
-- [Blog – proflead.dev](https://proflead.dev) – Articles & use cases
-- Explore my projects below ↓
+- [YouTube – proflead](https://youtube.com/@proflead) – Weekly Tutorials & Reviews
+- [Blog – proflead.dev](https://proflead.dev) – Articles, Tutorials, Use Cases & Tools
 - [Medium](https://medium.com/@proflead)  – Developer articles, breakdowns & ideas
-- Reddit community - [https://www.reddit.com/r/AIforDevs/](https://www.reddit.com/r/AIforDevs/)
+- [AI for Devs](https://www.reddit.com/r/AIforDevs/) - Reddit community
+- [Weekly Newsletter](https://proflead.substack.com/) - AI News, Productivity Tips & Tools for Devs
+
 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/proflead/) to stay updated on my latest projects and articles.
