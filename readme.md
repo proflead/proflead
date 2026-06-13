@@ -21,14 +21,9 @@ I share what I learn through hands-on tutorials, tool reviews, and experiments, 
 **[AI Builder Lab Bangkok — Technical Builder Volunteer](https://www.linkedin.com/feed/update/urn:li:activity:7471409170349481984/)**  
 Volunteered as a technical builder at the AI Builder Lab in Bangkok, organized by DataKind in collaboration with OpenAI Academy, with program partners ADPC and the Gates Foundation. Worked with disaster-management practitioners from 13+ countries across APAC to build practical AI solutions for emergency response.  
 During the lab, I built Disaster Situation Analysis and Response Planning, an AI-powered web application that helps Civil Protection Authority officers in Timor-Leste turn disaster reports into clear situation briefs, response plans, resource gaps, and map-based insights.
-
 **[GitHub Dev Day at Microsoft, Australia.](https://youtu.be/uzzBQKDdYtw?si=-B0TyMGUMkTJW5Fr)** My talk was about Orchestrating Multiple Agents Inside VS Code.
-
-**[4th International Symposium on Multilateral Innovation for a Future Society](https://www.linkedin.com/feed/update/urn:li:activity:7422943516189769728/)**  
-I had the opportunity to serve as an invited speaker at the 4th International Symposium on Multilateral Innovation for a Future Society.
-
+**[4th International Symposium on Multilateral Innovation for a Future Society](https://www.linkedin.com/feed/update/urn:li:activity:7422943516189769728/)**. I had the opportunity to serve as an invited speaker at the 4th International Symposium on Multilateral Innovation for a Future Society.
 **[Fastspring Interview](https://fastspring.com/case-study/iron-software/)** - conversion improvement case study
-
 **[Meet the HackerNoon Top Writers](https://hackernoon.com/meet-the-hackernoon-top-writers-vladislav-guzey-on-writing-and-creativity)** - Vladislav Guzey on Writing and Creativity
 
 **[Live webinar](https://youtu.be/KHgusJoKF0s?si=sJPjLZrjEMzsEXtx)** - Create, Edit, and Extract PDF Contents in Python Projects
