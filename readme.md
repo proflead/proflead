@@ -2,7 +2,7 @@
 
 Developer & PhD Researcher in AI, focused on generative AI and agent-based systems.
 
-I have 18+ years of experience in tech, spanning web development, data, and growth. Today, I help developers work smarter by using AI-powered tools, agents, and practical workflows that improve productivity and real-world outcomes.
+I have 20+ years of experience in tech, spanning web development, data, and growth. Today, I help developers work smarter by using AI-powered tools, agents, and practical workflows that improve productivity and real-world outcomes.
 
 I share what I learn through hands-on tutorials, tool reviews, and experiments, bridging research with everyday development work.
 
