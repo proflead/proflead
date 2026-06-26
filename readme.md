@@ -1,6 +1,6 @@
 # Hey, I'm Vladislav Guzey – aka proflead
 
-Developer & PhD Researcher in AI, focused on generative AI and agent-based systems.
+Developer, [Codex Ambassador](https://developers.openai.com/community/codex-ambassadors?ambassador=vladislav-viktorovich-guzey) & PhD Researcher in AI focused on generative AI and agent-based systems.
 
 I have 20+ years of experience in tech, spanning web development, data, and growth. Today, I help developers work smarter by using AI-powered tools, agents, and practical workflows that improve productivity and real-world outcomes.
 
